@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapCompose</string>
+    <string name="MAPS_API_KEY">AQUI COLOCAN SU APIKEY</string>
+</resources>
